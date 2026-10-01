@@ -1,3 +1,9 @@
+# AI Assistant
+
+<p align="center">
+  <img src="./preview.png" alt="AI Assistant - LangChain Mistral AI Chatbot">
+</p>
+
 # Generative AI & LangChain Learning Journey
 
 A practical repository built while learning **Generative AI**, **LangChain**, and **LLM Integrations**. This repository contains hands-on scripts ranging from basic chat models and embeddings to a full-featured Streamlit chatbot UI.
